@@ -52,5 +52,7 @@ gulp.task('sonar', function () {
 ## Credit
 
 Inspired by [grunt-sonar-runner](https://github.com/skhatri/grunt-sonar-runner) by [Suresh Khatri](https://github.com/skhatri).
+
 Forked from [gulp-sonar](https://github.com/carsdotcom/gulp-sonar) by [carsdotcom](https://github.com/carsdotcom)
-Thanks to [Floix](https://github.com/Floix) for providing the changes in a fork on the original branch.
+
+Thanks to [Floix](https://github.com/Floix) for providing the changes in a PR on the original repository.
