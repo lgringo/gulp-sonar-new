@@ -1,7 +1,7 @@
 {
   "name": "gulp-sonar-new",
   "description": "Sonar runner for gulp with updated dependencies.",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "homepage": "https://github.com/craigkoster/gulp-sonar-new",
   "author": {
     "name": "Craig Koster",
