@@ -31,7 +31,7 @@ gulp.task('sonar', function () {
             sourceEncoding: 'UTF-8',
             javascript: {
                 lcov: {
-                    reportPath: 'test/sonar_report/lcov.info'
+                    reportPaths: 'test/sonar_report/lcov.info'
                 }
             },
             exec: {

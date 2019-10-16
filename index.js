@@ -17,7 +17,7 @@ module.exports = function (options) {
 		write,
 		flush;
 
-	SONAR_VERSION = "2.8";
+	SONAR_VERSION = "4.0.0.1744";
 	SONAR_SCANNER_HOME = path.join(__dirname, format("/sonar-scanner-%s", SONAR_VERSION));
 	SONAR_SCANNER_PROPERTIES = path.join(__dirname, format("/sonar-scanner-%s", SONAR_VERSION), "conf", "sonar-scanner.properties");
 	SONAR_SCANNER_JAR = format("/lib/sonar-scanner-cli-%s.jar", SONAR_VERSION);
